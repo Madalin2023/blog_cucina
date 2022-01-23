@@ -19,7 +19,6 @@
     padding-left: 15px;
     padding-right: 15px;
     background-color: rgba(250, 233, 84, 0.863);
-
 }
 
 .fotocotoletta{
@@ -32,10 +31,29 @@
     padding-left: 15px;
     padding-right: 15px;
     background-color: rgba(250, 233, 84, 0.863);
-
-
 }
 
 .fotorisotto{
     width: 30vw;
+}
+
+p{
+    font-family: 'Varela Round', sans-serif;
+}
+
+ul{
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
+}
+
+h3,h2{
+    font-family: 'Varela Round', sans-serif;
+}
+
+h1{
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.italic{
+    font-style: italic;
 }
