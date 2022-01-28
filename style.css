@@ -69,3 +69,35 @@ li{
     justify-content: space-evenly;
 }
 
+@media screen and (max-width:700px){
+    .ricettasushi{
+        width: 90vw;
+    }
+
+    .fotosushi{
+        width: 50vw;
+    }
+    
+
+    .ricettacotoletta{
+        width: 90vw;
+    }
+
+    .fotocotoletta{
+        width: 50vw;
+    }
+
+    .ricettarisotto{
+        width: 90vw;
+    }
+
+    .fotorisotto{
+        width: 50vw;
+    }
+
+    .ricette{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
